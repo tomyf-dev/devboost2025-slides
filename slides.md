@@ -5,6 +5,7 @@ author: リバネスナレッジ / Senior Web Engineer
 info: |
   Developers Boost 2025 / 30分セッション
   Cursor×git worktreeによる並列開発のススメ
+aspectRatio: '16/9'
 transition: slide-left
 class: text-left
 mdc: true
